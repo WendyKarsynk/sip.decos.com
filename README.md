@@ -1,2 +1,4 @@
-# sip.decos.com
-sip.decos.com
+# growsolutions-prod.hawthornegc.com
+
+
+Subdomain TakeOver By 0xSADAT
